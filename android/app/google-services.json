@@ -1,0 +1,559 @@
+{
+  "project_info": {
+    "project_number": "684190539040",
+    "firebase_url": "https://cpf-innovation-mes.firebaseio.com",
+    "project_id": "cpf-innovation-mes",
+    "storage_bucket": "cpf-innovation-mes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:bc9951461450ed34db4b45",
+        "android_client_info": {
+          "package_name": "com.cpf.farmmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:3e9617aee12b9f74db4b45",
+        "android_client_info": {
+          "package_name": "com.cpfit.MES_Korat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-vrhqa312cndenmupgt1g94ri6k7bv8gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cpfit.MES_Korat",
+            "certificate_hash": "20707f4fe0166b53c0b48426a7ead5cc4a8560ab"
+          }
+        },
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:cd4345789bff399a",
+        "android_client_info": {
+          "package_name": "com.cpfit.mes_dashboad_on_mac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:2fdef0d18496714bdb4b45",
+        "android_client_info": {
+          "package_name": "com.cpfit.mes_korat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:b6241b44b1ea04a4",
+        "android_client_info": {
+          "package_name": "com.example.alertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:4e29e7376ecb735e",
+        "android_client_info": {
+          "package_name": "com.example.dashboard_mes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:df2405ca8c7da245db4b45",
+        "android_client_info": {
+          "package_name": "com.example.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:514ee09f57d9198edb4b45",
+        "android_client_info": {
+          "package_name": "com.example.fems_mahachai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:b87375f777d579a0",
+        "android_client_info": {
+          "package_name": "com.example.firstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:ea6bb22aa6b1cb36",
+        "android_client_info": {
+          "package_name": "com.example.jr6_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:17aee8fc6e7ede82",
+        "android_client_info": {
+          "package_name": "com.example.mes_dashboad_on_mac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:b8bb8d40fc15cedfdb4b45",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:6d9970e27b41ec2d",
+        "android_client_info": {
+          "package_name": "com.example.test_080719"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:a557c9cb11288a86",
+        "android_client_info": {
+          "package_name": "com.example.yeesarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684190539040:android:342b3155f890c591",
+        "android_client_info": {
+          "package_name": "com.example.yeesarn_4_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZ32L-MA3zK9kx5Zbb9R3n4MQjBj1Xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684190539040-ksjv6p17jjmp1otov4qfblffau92obgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684190539040-1lrqhhecfn1vgc9qfudup2gp1oaq3cju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbi.farmmonitor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
